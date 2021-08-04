@@ -1,6 +1,7 @@
+<div align="center"><img src="https://user-images.githubusercontent.com/82294911/125177155-e310fd80-e1af-11eb-981f-1cde10493061.png"></div>
 <h1>Exercício com JavaScript Capítulo 1</h1>
 
-<p>Este repositório tem a finalidade de registrar exercícios de lógica e algoritmos em JavaScript, Solucionado por mim, baseado no livro: Fernando Lepsen, Edércio. Lógica de Programação e Algoritmos com JavaScript: uma introdução à programação de Computadores com Exemplos e Exercícios para iniciantes. São Paulo -SP: ‎ Novatec Editora; 1ª edição (1 março 2018).</p>
+<p>Este repositório tem a finalidade de registrar exercícios de lógica e algoritmos em JavaScript, Solucionado por mim, baseado no livro: <i>Fernando Lepsen, Edércio. Lógica de Programação e Algoritmos com JavaScript: uma introdução à programação de Computadores com Exemplos e Exercícios para iniciantes. São Paulo -SP: ‎ Novatec Editora; 1ª edição (1 março 2018).</i></p>
 
 Neste primeiro capítulo, será registrado apenas os exercícios feitos por mim, sem as dicas do livro.
 Nos capítulos posteriores, Será adicionado alguns comentários, sendo de orientações obtida no livro.  Foram mantidos os comentários, pois julguei eles importantes ao longo dos desafios 
