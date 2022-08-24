@@ -31,8 +31,8 @@ Desafio 4) Elabore um programa que mostra a média de um aluno entre duas notas 
 <hr>
 
 <h3 align="center">Fim do primeiro capítulo</h3>
-<p align="center">Neste capítulo não foi registrado os exercícios com dicas do livro, pela sua facilidade. Tratando-se do primeiro capitulo, os exercícios inicias são alto para entender um conceito básico. 
-Neste capítulo, foi abordado o básico da linguagem Java Script. Um aprendizado interessante, foi que utilizando o método prompt() e alert(), Apresentando, ainda que de forma básica a existência da API do DOM.
+<p align="center">Neste capítulo não foi registrado os exercícios com dicas do livro pela sua facilidade. Tratando-se do primeiro capítulo, os exercícios inicias são facéis para entender os conceito básico. 
+Neste capítulo, foi abordado o básico da linguagem JavaScript. Um aprendizado interessante, foi que utilizando o método prompt() e alert(), Apresentando, ainda que de forma básica a existência da <b>API do DOM</b>.
 </p>
 
 <div align="center"><h6>Em breve o Próximo capítulo 😉</h6></div>
